@@ -1,0 +1,27 @@
+/*reset das propriedades*/
+* {
+    margin: 0;
+    padding: 0;
+}
+/*corpo - características gerais*/
+body {
+    background-color: rgb(0, 99, 190);
+}
+/*posicionamento da logo do projeto*/
+img {
+    position: relative;
+    top: 47.79px;
+    left: 51.05px;
+}
+/*direcionamento de login*/
+a {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    text-decoration: none;    
+}
+
+a.login {
+}
